@@ -8,6 +8,8 @@ export type { CardProps } from './components/Card';
 export { Card } from './components/Card';
 export type { InputProps } from './components/Input';
 export { Input } from './components/Input';
+export type { ToastProps } from './components/Toast';
+export { Toast } from './components/Toast';
 
 // Utils
 export { cn } from './utils/cn';
