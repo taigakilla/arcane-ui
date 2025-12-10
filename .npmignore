@@ -1,0 +1,27 @@
+# Source files
+src/
+*.config.ts
+*.config.js
+
+# Tests
+**/*.test.ts
+**/*.test.tsx
+**/*.spec.ts
+
+# Config files
+tsconfig.json
+biome.json
+tailwind.config.ts
+postcss.config.js
+
+# Git
+.git/
+.github/
+.husky/
+
+# Node
+node_modules/
+
+# Build artifacts
+*.log
+.DS_Store
