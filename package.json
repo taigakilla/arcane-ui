@@ -1,6 +1,6 @@
 {
   "name": "@taigakilla/arcane-ui",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Arcane-themed React component library with mystical UI elements",
   "type": "module",
   "main": "./dist/index.js",
