@@ -1,6 +1,6 @@
 {
   "name": "@taigakilla/arcane-ui",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Arcane-themed React component library with mystical UI elements",
   "type": "module",
   "main": "./dist/index.js",
@@ -40,8 +40,8 @@
     "url": "https://github.com/taigakilla/arcane-ui.git"
   },
   "peerDependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
+    "react": "^18.0.0 || ^19.0.0",
+    "react-dom": "^18.0.0 || ^19.0.0",
     "lucide-react": "^0.556.0"
   },
   "devDependencies": {
